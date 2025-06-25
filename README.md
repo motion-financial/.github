@@ -1,1 +1,1 @@
-# .github
+# GitHub Business Profile
